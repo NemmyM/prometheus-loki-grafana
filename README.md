@@ -1,6 +1,6 @@
 # Monitoring Stack with Prometheus, Loki, and Grafana
 
-This repository provides a standalone Docker Compose setup for running Prometheus, Loki, and Grafana behind a secure Nginx gateway.
+This repository provides a standalone Docker Compose setup for running Prometheus, Loki, and Grafana behind a Nginx reverse proxy.
 
 
 ## Overview

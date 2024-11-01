@@ -26,8 +26,8 @@ The `.htpasswd` file configures Nginx to require basic authentication credential
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/NemmyM/prometheus-loki-grafana.git
+   cd prometheus-loki-grafana
    ```
 
 2. **Set up environment variables**:
